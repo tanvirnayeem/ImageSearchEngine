@@ -1,0 +1,5 @@
+bulletproof vest (score = 0.04337)
+jean, blue jean, denim (score = 0.04108)
+gasmask, respirator, gas helmet (score = 0.03956)
+sleeping bag (score = 0.03443)
+pajama, pyjama, pj's, jammies (score = 0.03158)

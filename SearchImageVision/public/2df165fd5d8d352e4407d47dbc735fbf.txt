@@ -1,0 +1,5 @@
+swimming trunks, bathing trunks (score = 0.69421)
+knee pad (score = 0.09777)
+jean, blue jean, denim (score = 0.06964)
+velvet (score = 0.00299)
+cowboy boot (score = 0.00267)

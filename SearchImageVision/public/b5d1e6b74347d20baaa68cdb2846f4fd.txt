@@ -1,0 +1,5 @@
+jersey, T-shirt, tee shirt (score = 0.98454)
+maillot (score = 0.00760)
+sweatshirt (score = 0.00038)
+football helmet (score = 0.00027)
+packet (score = 0.00017)

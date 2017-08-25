@@ -1,0 +1,5 @@
+jersey, T-shirt, tee shirt (score = 0.95400)
+maillot (score = 0.01940)
+dumbbell (score = 0.00086)
+maillot, tank suit (score = 0.00064)
+gown (score = 0.00052)

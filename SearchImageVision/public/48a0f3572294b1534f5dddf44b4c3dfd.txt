@@ -1,0 +1,5 @@
+scoreboard (score = 0.14795)
+hair spray (score = 0.09530)
+book jacket, dust cover, dust jacket, dust wrapper (score = 0.05338)
+crossword puzzle, crossword (score = 0.02174)
+sunscreen, sunblock, sun blocker (score = 0.02098)

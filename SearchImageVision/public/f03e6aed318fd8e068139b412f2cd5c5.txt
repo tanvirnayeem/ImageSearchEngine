@@ -1,0 +1,5 @@
+jean, blue jean, denim (score = 0.98607)
+sweatshirt (score = 0.00270)
+cardigan (score = 0.00169)
+bulletproof vest (score = 0.00045)
+stole (score = 0.00045)

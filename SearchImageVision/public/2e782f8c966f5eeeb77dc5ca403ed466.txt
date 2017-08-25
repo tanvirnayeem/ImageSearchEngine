@@ -1,0 +1,5 @@
+jersey, T-shirt, tee shirt (score = 0.90250)
+buckle (score = 0.00709)
+jean, blue jean, denim (score = 0.00511)
+maillot (score = 0.00358)
+sweatshirt (score = 0.00303)

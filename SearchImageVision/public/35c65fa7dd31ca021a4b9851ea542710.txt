@@ -1,0 +1,5 @@
+jersey, T-shirt, tee shirt (score = 0.86802)
+dumbbell (score = 0.00788)
+jean, blue jean, denim (score = 0.00757)
+maillot (score = 0.00289)
+sweatshirt (score = 0.00199)

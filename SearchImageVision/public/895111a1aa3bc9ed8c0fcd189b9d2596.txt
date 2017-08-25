@@ -1,0 +1,5 @@
+swimming trunks, bathing trunks (score = 0.61433)
+pajama, pyjama, pj's, jammies (score = 0.22949)
+knee pad (score = 0.01373)
+velvet (score = 0.00269)
+sweatshirt (score = 0.00263)

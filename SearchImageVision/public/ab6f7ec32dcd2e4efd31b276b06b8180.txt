@@ -1,0 +1,5 @@
+military uniform (score = 0.43529)
+suit, suit of clothes (score = 0.13209)
+wool, woolen, woollen (score = 0.09507)
+trench coat (score = 0.03144)
+bearskin, busby, shako (score = 0.01523)

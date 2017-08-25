@@ -1,0 +1,5 @@
+kimono (score = 0.23309)
+steel drum (score = 0.08576)
+maraca (score = 0.06086)
+pajama, pyjama, pj's, jammies (score = 0.05645)
+poncho (score = 0.03853)

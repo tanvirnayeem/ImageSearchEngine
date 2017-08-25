@@ -1,0 +1,5 @@
+jersey, T-shirt, tee shirt (score = 0.90795)
+maillot (score = 0.04263)
+football helmet (score = 0.00745)
+dumbbell (score = 0.00402)
+barbell (score = 0.00178)

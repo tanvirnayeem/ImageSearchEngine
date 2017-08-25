@@ -1,0 +1,5 @@
+nematode, nematode worm, roundworm (score = 0.19002)
+nail (score = 0.14010)
+hook, claw (score = 0.09647)
+knot (score = 0.07152)
+scabbard (score = 0.04568)

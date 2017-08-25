@@ -1,0 +1,5 @@
+jean, blue jean, denim (score = 0.88629)
+bulletproof vest (score = 0.00507)
+suit, suit of clothes (score = 0.00460)
+military uniform (score = 0.00452)
+buckle (score = 0.00396)

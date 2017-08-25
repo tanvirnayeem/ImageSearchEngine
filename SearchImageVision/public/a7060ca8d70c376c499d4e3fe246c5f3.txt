@@ -1,0 +1,5 @@
+suit, suit of clothes (score = 0.67006)
+wool, woolen, woollen (score = 0.21460)
+cardigan (score = 0.02559)
+Windsor tie (score = 0.01307)
+military uniform (score = 0.00558)

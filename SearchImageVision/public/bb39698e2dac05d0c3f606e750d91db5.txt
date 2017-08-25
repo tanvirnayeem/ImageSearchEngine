@@ -1,0 +1,5 @@
+jean, blue jean, denim (score = 0.45893)
+suit, suit of clothes (score = 0.05842)
+sweatshirt (score = 0.04257)
+stole (score = 0.03987)
+bow tie, bow-tie, bowtie (score = 0.03176)

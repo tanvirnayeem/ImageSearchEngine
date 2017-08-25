@@ -1,0 +1,5 @@
+jersey, T-shirt, tee shirt (score = 0.92320)
+dumbbell (score = 0.00248)
+jean, blue jean, denim (score = 0.00186)
+bulletproof vest (score = 0.00168)
+sunglass (score = 0.00123)

@@ -1,0 +1,5 @@
+jersey, T-shirt, tee shirt (score = 0.91930)
+sweatshirt (score = 0.00552)
+maillot (score = 0.00381)
+buckle (score = 0.00216)
+pajama, pyjama, pj's, jammies (score = 0.00177)

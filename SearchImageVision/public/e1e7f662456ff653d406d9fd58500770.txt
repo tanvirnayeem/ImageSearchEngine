@@ -1,0 +1,5 @@
+sweatshirt (score = 0.39314)
+trench coat (score = 0.15408)
+bulletproof vest (score = 0.13184)
+suit, suit of clothes (score = 0.03375)
+academic gown, academic robe, judge's robe (score = 0.02269)

@@ -1,0 +1,5 @@
+jean, blue jean, denim (score = 0.97458)
+sweatshirt (score = 0.00146)
+cardigan (score = 0.00135)
+stole (score = 0.00093)
+cowboy boot (score = 0.00036)

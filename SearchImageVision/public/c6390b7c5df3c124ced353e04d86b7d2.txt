@@ -1,0 +1,5 @@
+jersey, T-shirt, tee shirt (score = 0.99009)
+maillot (score = 0.00094)
+sweatshirt (score = 0.00076)
+football helmet (score = 0.00023)
+pajama, pyjama, pj's, jammies (score = 0.00012)

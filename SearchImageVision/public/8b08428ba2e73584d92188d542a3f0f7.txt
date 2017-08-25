@@ -1,0 +1,5 @@
+jean, blue jean, denim (score = 0.84699)
+suit, suit of clothes (score = 0.01022)
+cowboy boot (score = 0.00873)
+stole (score = 0.00700)
+sweatshirt (score = 0.00567)

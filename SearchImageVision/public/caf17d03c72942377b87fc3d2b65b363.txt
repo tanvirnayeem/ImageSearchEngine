@@ -1,0 +1,5 @@
+puck, hockey puck (score = 0.28988)
+shield, buckler (score = 0.14994)
+book jacket, dust cover, dust jacket, dust wrapper (score = 0.13881)
+comic book (score = 0.04214)
+envelope (score = 0.02525)

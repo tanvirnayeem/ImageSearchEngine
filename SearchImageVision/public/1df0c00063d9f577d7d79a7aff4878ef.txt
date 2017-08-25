@@ -1,0 +1,5 @@
+velvet (score = 0.27425)
+pajama, pyjama, pj's, jammies (score = 0.17738)
+wool, woolen, woollen (score = 0.10351)
+miniskirt, mini (score = 0.06375)
+cardigan (score = 0.06217)

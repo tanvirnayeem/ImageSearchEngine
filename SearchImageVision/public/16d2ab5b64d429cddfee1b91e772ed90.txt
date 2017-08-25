@@ -1,0 +1,5 @@
+jersey, T-shirt, tee shirt (score = 0.98325)
+sweatshirt (score = 0.00141)
+maillot (score = 0.00041)
+dumbbell (score = 0.00027)
+soccer ball (score = 0.00018)

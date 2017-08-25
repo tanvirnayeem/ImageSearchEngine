@@ -1,0 +1,5 @@
+pajama, pyjama, pj's, jammies (score = 0.88662)
+cardigan (score = 0.01489)
+jean, blue jean, denim (score = 0.00614)
+stole (score = 0.00531)
+wool, woolen, woollen (score = 0.00348)

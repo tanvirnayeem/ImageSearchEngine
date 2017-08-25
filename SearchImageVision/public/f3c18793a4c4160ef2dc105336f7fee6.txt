@@ -1,0 +1,5 @@
+military uniform (score = 0.31279)
+knee pad (score = 0.18515)
+swimming trunks, bathing trunks (score = 0.13797)
+bulletproof vest (score = 0.04348)
+rifle (score = 0.00499)

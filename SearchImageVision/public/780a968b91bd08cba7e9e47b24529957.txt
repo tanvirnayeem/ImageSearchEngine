@@ -1,0 +1,5 @@
+jersey, T-shirt, tee shirt (score = 0.99344)
+sweatshirt (score = 0.00028)
+neck brace (score = 0.00026)
+electric guitar (score = 0.00020)
+book jacket, dust cover, dust jacket, dust wrapper (score = 0.00015)

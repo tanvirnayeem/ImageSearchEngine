@@ -1,0 +1,5 @@
+jersey, T-shirt, tee shirt (score = 0.96392)
+jean, blue jean, denim (score = 0.00347)
+dumbbell (score = 0.00166)
+sweatshirt (score = 0.00139)
+soccer ball (score = 0.00079)

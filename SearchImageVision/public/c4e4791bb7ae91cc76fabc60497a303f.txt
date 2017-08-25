@@ -1,0 +1,5 @@
+lab coat, laboratory coat (score = 0.85957)
+Windsor tie (score = 0.05989)
+suit, suit of clothes (score = 0.02361)
+handkerchief, hankie, hanky, hankey (score = 0.00418)
+stethoscope (score = 0.00160)
