@@ -1,0 +1,5 @@
+table lamp (score = 0.96192)
+lampshade, lamp shade (score = 0.02144)
+pedestal, plinth, footstall (score = 0.00119)
+stove (score = 0.00046)
+dining table, board (score = 0.00039)

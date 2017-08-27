@@ -1,0 +1,5 @@
+daisy (score = 0.14710)
+packet (score = 0.02553)
+hair slide (score = 0.02314)
+vase (score = 0.01813)
+tray (score = 0.01778)

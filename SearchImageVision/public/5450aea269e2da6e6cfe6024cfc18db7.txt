@@ -1,0 +1,5 @@
+Indian elephant, Elephas maximus (score = 0.94662)
+tusker (score = 0.03313)
+African elephant, Loxodonta africana (score = 0.00207)
+Great Dane (score = 0.00008)
+thunder snake, worm snake, Carphophis amoenus (score = 0.00008)

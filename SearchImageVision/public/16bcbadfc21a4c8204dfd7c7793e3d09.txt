@@ -1,0 +1,5 @@
+kite (score = 0.61652)
+great grey owl, great gray owl, Strix nebulosa (score = 0.08186)
+African grey, African gray, Psittacus erithacus (score = 0.03308)
+hen (score = 0.01480)
+red-backed sandpiper, dunlin, Erolia alpina (score = 0.01116)

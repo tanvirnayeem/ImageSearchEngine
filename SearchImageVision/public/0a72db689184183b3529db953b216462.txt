@@ -1,0 +1,5 @@
+llama (score = 0.89593)
+komondor (score = 0.00327)
+ostrich, Struthio camelus (score = 0.00293)
+ram, tup (score = 0.00214)
+bighorn, bighorn sheep, cimarron, Rocky Mountain bighorn, Rocky Mountain sheep, Ovis canadensis (score = 0.00203)

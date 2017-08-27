@@ -1,0 +1,5 @@
+drake (score = 0.94914)
+American coot, marsh hen, mud hen, water hen, Fulica americana (score = 0.00148)
+red-breasted merganser, Mergus serrator (score = 0.00077)
+lakeside, lakeshore (score = 0.00073)
+goose (score = 0.00073)

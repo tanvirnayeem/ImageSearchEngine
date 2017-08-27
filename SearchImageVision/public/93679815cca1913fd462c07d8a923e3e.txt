@@ -1,0 +1,5 @@
+flamingo (score = 0.90946)
+ostrich, Struthio camelus (score = 0.00119)
+crane (score = 0.00083)
+spoonbill (score = 0.00081)
+black stork, Ciconia nigra (score = 0.00065)

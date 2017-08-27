@@ -82,12 +82,12 @@ for Image Searching Issue Using<br>Tensorflow & CNN
                           <input type="file" name="file" id="fileBox">
                         </div>
                         <div class="file-path-wrapper">
-                          <input placeholder="Image Here" class="file-path validate">
+                          <input placeholder="Only Image Here" class="file-path validate">
                         </div>
                     </div><br>
 
                     
-                     <button type="submit" class="btn green" style='width:300px;'>Search</button>
+                     <button type="submit" class="btn red" style='width:150px;'>Search</button>
                </center>
              {!! Form::close() !!}
 
@@ -109,7 +109,7 @@ for Image Searching Issue Using<br>Tensorflow & CNN
                   <label for="exampleTextarea">
                      <h5><b>Best Guess</b></h5>
                   </label>
-                  <textarea class="form-control" id="exampleTextarea" rows="3" style="width: 500px; height: 150px;"><?php echo $contents; ?></textarea>
+                  <textarea class="form-control" id="exampleTextarea" rows="3" style="width: 500px; height: 140px;"><?php echo $contents; ?></textarea>
                </div>
             </center>
          </form>

@@ -1,0 +1,5 @@
+hatchet (score = 0.37824)
+corkscrew, bottle screw (score = 0.05861)
+bow (score = 0.05068)
+hook, claw (score = 0.04146)
+plow, plough (score = 0.02183)

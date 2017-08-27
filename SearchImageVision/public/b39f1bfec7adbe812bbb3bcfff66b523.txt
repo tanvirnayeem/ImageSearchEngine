@@ -1,0 +1,5 @@
+ptarmigan (score = 0.44562)
+kite (score = 0.16751)
+prairie chicken, prairie grouse, prairie fowl (score = 0.08161)
+ruffed grouse, partridge, Bonasa umbellus (score = 0.04676)
+great grey owl, great gray owl, Strix nebulosa (score = 0.02790)

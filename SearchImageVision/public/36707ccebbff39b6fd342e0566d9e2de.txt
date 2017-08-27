@@ -1,0 +1,5 @@
+black grouse (score = 0.38551)
+kite (score = 0.07578)
+partridge (score = 0.07451)
+prairie chicken, prairie grouse, prairie fowl (score = 0.04005)
+coucal (score = 0.03988)

@@ -1,0 +1,5 @@
+stupa, tope (score = 0.26419)
+pedestal, plinth, footstall (score = 0.16201)
+fountain (score = 0.02417)
+swimming trunks, bathing trunks (score = 0.02354)
+pickelhaube (score = 0.02201)

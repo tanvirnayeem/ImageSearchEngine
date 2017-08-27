@@ -1,0 +1,5 @@
+flamingo (score = 0.87345)
+ostrich, Struthio camelus (score = 0.00277)
+crane (score = 0.00253)
+American egret, great white heron, Egretta albus (score = 0.00134)
+pelican (score = 0.00126)

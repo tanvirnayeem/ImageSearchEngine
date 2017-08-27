@@ -1,0 +1,5 @@
+American lobster, Northern lobster, Maine lobster, Homarus americanus (score = 0.88362)
+isopod (score = 0.03822)
+crayfish, crawfish, crawdad, crawdaddy (score = 0.01679)
+rock crab, Cancer irroratus (score = 0.00509)
+scorpion (score = 0.00492)

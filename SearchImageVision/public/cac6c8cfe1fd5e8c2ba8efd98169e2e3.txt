@@ -1,0 +1,5 @@
+American egret, great white heron, Egretta albus (score = 0.85035)
+crane (score = 0.03267)
+little blue heron, Egretta caerulea (score = 0.01724)
+spoonbill (score = 0.01135)
+lakeside, lakeshore (score = 0.00342)
