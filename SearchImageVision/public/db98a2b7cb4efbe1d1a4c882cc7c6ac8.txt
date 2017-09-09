@@ -1,0 +1,5 @@
+envelope (score = 0.39810)
+web site, website, internet site, site (score = 0.13603)
+carton (score = 0.03587)
+menu (score = 0.01727)
+shower curtain (score = 0.01360)

@@ -1,0 +1,5 @@
+African crocodile, Nile crocodile, Crocodylus niloticus (score = 0.85643)
+American alligator, Alligator mississipiensis (score = 0.02430)
+Komodo dragon, Komodo lizard, dragon lizard, giant lizard, Varanus komodoensis (score = 0.01314)
+common iguana, iguana, Iguana iguana (score = 0.00687)
+alligator lizard (score = 0.00327)

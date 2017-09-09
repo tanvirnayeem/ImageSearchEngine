@@ -1,0 +1,5 @@
+American egret, great white heron, Egretta albus (score = 0.93269)
+crane (score = 0.01679)
+little blue heron, Egretta caerulea (score = 0.01416)
+spoonbill (score = 0.00615)
+bittern (score = 0.00046)

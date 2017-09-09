@@ -1,0 +1,5 @@
+soccer ball (score = 0.95581)
+cauliflower (score = 0.00241)
+volleyball (score = 0.00058)
+silky terrier, Sydney silky (score = 0.00029)
+kelpie (score = 0.00025)

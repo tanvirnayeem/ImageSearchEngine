@@ -1,0 +1,5 @@
+ant, emmet, pismire (score = 0.74496)
+ground beetle, carabid beetle (score = 0.09530)
+black widow, Latrodectus mactans (score = 0.01352)
+barn spider, Araneus cavaticus (score = 0.01037)
+tiger beetle (score = 0.00709)

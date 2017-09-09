@@ -1,0 +1,5 @@
+comic book (score = 0.90720)
+web site, website, internet site, site (score = 0.00429)
+book jacket, dust cover, dust jacket, dust wrapper (score = 0.00414)
+coffee mug (score = 0.00173)
+jersey, T-shirt, tee shirt (score = 0.00161)

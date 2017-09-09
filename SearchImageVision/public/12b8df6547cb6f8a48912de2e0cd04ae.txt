@@ -1,0 +1,5 @@
+monarch, monarch butterfly, milkweed butterfly, Danaus plexippus (score = 0.89208)
+ringlet, ringlet butterfly (score = 0.00319)
+lycaenid, lycaenid butterfly (score = 0.00217)
+sulphur butterfly, sulfur butterfly (score = 0.00131)
+potter's wheel (score = 0.00069)

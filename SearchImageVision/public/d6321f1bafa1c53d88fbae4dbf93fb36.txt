@@ -1,0 +1,5 @@
+valley, vale (score = 0.51065)
+badger (score = 0.03444)
+lakeside, lakeshore (score = 0.03218)
+sloth bear, Melursus ursinus, Ursus ursinus (score = 0.02748)
+otter (score = 0.01538)

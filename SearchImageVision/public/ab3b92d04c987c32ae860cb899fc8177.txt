@@ -1,0 +1,5 @@
+cellular telephone, cellular phone, cellphone, cell, mobile phone (score = 0.08756)
+sandbar, sand bar (score = 0.05262)
+sunglass (score = 0.04184)
+sarong (score = 0.03057)
+volleyball (score = 0.02829)

@@ -1,0 +1,5 @@
+gong, tam-tam (score = 0.19009)
+electric fan, blower (score = 0.08542)
+CD player (score = 0.05464)
+dial telephone, dial phone (score = 0.03803)
+tape player (score = 0.02803)

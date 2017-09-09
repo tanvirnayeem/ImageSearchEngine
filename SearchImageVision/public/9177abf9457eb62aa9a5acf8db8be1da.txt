@@ -1,0 +1,5 @@
+strawberry (score = 0.96187)
+banana (score = 0.00145)
+lemon (score = 0.00098)
+chocolate sauce, chocolate syrup (score = 0.00089)
+orange (score = 0.00089)

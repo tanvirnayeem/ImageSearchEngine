@@ -1,0 +1,5 @@
+notebook, notebook computer (score = 0.48928)
+laptop, laptop computer (score = 0.17037)
+space bar (score = 0.07330)
+modem (score = 0.03026)
+desktop computer (score = 0.01680)

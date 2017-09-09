@@ -1,0 +1,5 @@
+pot, flowerpot (score = 0.11689)
+picket fence, paling (score = 0.05962)
+vase (score = 0.05405)
+greenhouse, nursery, glasshouse (score = 0.04556)
+pinwheel (score = 0.04285)

@@ -1,0 +1,5 @@
+daisy (score = 0.89573)
+cardoon (score = 0.00631)
+bee (score = 0.00392)
+earthstar (score = 0.00299)
+sulphur butterfly, sulfur butterfly (score = 0.00212)

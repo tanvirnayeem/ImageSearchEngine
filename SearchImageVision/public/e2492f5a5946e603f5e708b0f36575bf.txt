@@ -1,0 +1,5 @@
+toucan (score = 0.95143)
+hornbill (score = 0.00743)
+macaw (score = 0.00067)
+lorikeet (score = 0.00035)
+king penguin, Aptenodytes patagonica (score = 0.00027)
